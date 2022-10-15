@@ -1,0 +1,24 @@
+{
+  "name": "track-em",
+  "version": "1.0.0",
+  "description": "Module 12 - Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chodge9/track-em.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chodge9/track-em/issues"
+  },
+  "homepage": "https://github.com/chodge9/track-em#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
